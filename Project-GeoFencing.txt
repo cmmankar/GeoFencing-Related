@@ -1,0 +1,34 @@
+Geofencing Create and monitor geofences
+
+https://youtu.be/nmAtMqljH9M 
+
+https://github.com/trulymittal/Geofencing 
+
+https://github.com/trulymittal/Notifications 
+
+https://github.com/trulymittal/BroadcastReceiverDemo 
+
+
+Mafia Codes
+We will be using google maps to create a point of interest by using long press on map, this will create a marker with the required radius for the geofence. Then we will be using the latest and best #GeofencingClient to create a geofence. The geofence events will be delivered to our own #BroadcastReceiver where we will handle the triggered #geofence. The geofence events will be delivered by #notifications (using notification channels)
+
+———————————————
+Relevant Tutorials:
+———————————————
+BroadcastReceivers: https://youtu.be/rowqGmHcBJc
+
+Requesting Permissions: https://youtu.be/WZhEroL4P7s
+
+Getting current Location: https://youtu.be/rNYaEFl6Fms
+
+Requesting Location updates: https://youtu.be/4eWoXPSpA5Y
+
+Adding Google Maps: https://youtu.be/GT-Br9iIqC0
+
+Geocoding and Reverse Geocoding: https://youtu.be/RGdW983RiHQ
+
+Dragging & Dropping Markers: https://youtu.be/9qGLYKsD-5I
+
+UserLocation in Maps: https://youtu.be/mBOCAHsGkzs
+
+Custom CAR marker in android: https://youtu.be/VUVv2Of7gBU
